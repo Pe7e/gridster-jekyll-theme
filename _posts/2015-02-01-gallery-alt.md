@@ -8,7 +8,7 @@ tags: [gallery, image]
 category: [image]
 gallery:
     - images:
-      - filename: gallery-1.jpg
+      - filename: IMG_0614.JPG
         alttext: Bloom Flat
       - filename: gallery-2.jpg
         alttext: Bloom
